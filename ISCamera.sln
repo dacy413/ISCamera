@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ISCamera", "ISCamera\ISCamera.vcxproj", "{89A0ECDF-9498-4D7E-9765-48AA14EE1306}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestISCamera", "TestISCamera\TestISCamera.vcxproj", "{03ACF4F7-B182-4D55-99A5-B39DE2FF05CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89A0ECDF-9498-4D7E-9765-48AA14EE1306}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89A0ECDF-9498-4D7E-9765-48AA14EE1306}.Debug|Win32.Build.0 = Debug|Win32
+		{89A0ECDF-9498-4D7E-9765-48AA14EE1306}.Release|Win32.ActiveCfg = Release|Win32
+		{89A0ECDF-9498-4D7E-9765-48AA14EE1306}.Release|Win32.Build.0 = Release|Win32
+		{03ACF4F7-B182-4D55-99A5-B39DE2FF05CB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{03ACF4F7-B182-4D55-99A5-B39DE2FF05CB}.Debug|Win32.Build.0 = Debug|Win32
+		{03ACF4F7-B182-4D55-99A5-B39DE2FF05CB}.Release|Win32.ActiveCfg = Release|Win32
+		{03ACF4F7-B182-4D55-99A5-B39DE2FF05CB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
